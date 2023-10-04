@@ -1,0 +1,15 @@
+Databricks Completes Acquisition of MosaicML
+
+The combined companies plan to make generative AI accessible to any size organization, enabling them to build, own and secure generative AI models with their data.
+
+Databricks, the Data and AI company, announced it has completed its acquisition of MosaicML, a leading generative AI platform known for its state-of-the-art MPT large language models (LLMs). Databricks and MosaicML have a shared vision of making generative AI accessible for all organizations, enabling them to build, own and secure generative AI models, including LLMs with their proprietary data.
+
+“Through this acquisition, we will be able to provide our 10,000 customers the ability to use their own data on the Databricks Lakehouse to train and deploy bespoke LLMs that offer a differentiated experience for their end users. Combining MosaicML with the Lakehouse provides a secure and best-in-class generative AI platform,” said Ali Ghodsi, Co-Founder and CEO of Databricks. “We are excited to welcome the MosaicML team of top AI researchers and engineers to the Databricks family and look forward to collaborating with them to build the future of data and AI.”
+
+“Together with Databricks, we will empower enterprise customers to more securely and cost-effectively build LLMs and generative AI with their own data,” said Naveen Rao, Co-Founder and CEO at MosaicML. “Our team is excited to join the Databricks family and continue innovating for customers and the open source community.”
+
+MosaicML’s product, which enables companies to efficiently build and deploy large AI models on their own data and business processes, will remain available for direct purchase. In the coming months, the Databricks and MosaicML teams will work to make training custom models even more seamless for Databricks Lakehouse customers.
+
+The Databricks Lakehouse Platform, combined with MosaicML’s technology, will offer customers the state-of-the-art generative AI training platform while allowing them to retain control, security, and ownership over their valuable data.
+
+source: https://martechseries.com/predictive-ai/ai-platforms-machine-learning/databricks-completes-acquisition-of-mosaicml/
